@@ -23,4 +23,5 @@ Para interactuar con el código brindado, en la terminal se debe ingresar:
 2) Elegir argumento, antes del mismo digite '-' .
 3) En caso de ser necesario, pasar parámetro correspondiente, como puede ser el número de stock mínimo.
 4) Aclarar archivo al cual acceder, en este caso Inventariado.csv
-   Ejemplo : ./main -total_art_dif Inventariado.csv
+
+Ejemplo : ./main -total_art_dif Inventariado.csv
