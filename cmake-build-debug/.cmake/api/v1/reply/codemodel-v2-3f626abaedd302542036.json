@@ -1,0 +1,65 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ZZ_ProyectoFinal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZZ_ProyectoFinal-Debug-d3138c521069f60dc1db.json",
+					"name" : "ZZ_ProyectoFinal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zz_ProyectoFinal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zz_ProyectoFinal-Debug-6fc648e6a2d8126aded8.json",
+					"name" : "zz_ProyectoFinal",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Unviersidad/2_Segundo ano/Programacion 3/ZZ ProyectoFinal/cmake-build-debug",
+		"source" : "D:/Unviersidad/2_Segundo ano/Programacion 3/ZZ ProyectoFinal"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

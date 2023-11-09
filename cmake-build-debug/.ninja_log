@@ -1,0 +1,13 @@
+# ninja log v5
+2	2248	7193395740000000	CMakeFiles/ZZ_ProyectoFinal.dir/main.cpp.obj	5a58c23877ddc315
+20	548	7201600540000000	CMakeFiles/zz_ProyectoFinal.dir/prueba.cpp.obj	37f7ac1e9736e486
+10	937	7193396780000000	ZZ_ProyectoFinal.exe	58b8168337fb26bb
+549	853	7201600540000000	zz_ProyectoFinal.exe	6b80aa36c7cbcc01
+2	523	7201602900000000	CMakeFiles/zz_ProyectoFinal.dir/prueba.cpp.obj	37f7ac1e9736e486
+524	1034	7201602900000000	zz_ProyectoFinal.exe	6b80aa36c7cbcc01
+4	467	7201606320000000	CMakeFiles/zz_ProyectoFinal.dir/prueba.cpp.obj	37f7ac1e9736e486
+468	807	7201606320000000	zz_ProyectoFinal.exe	6b80aa36c7cbcc01
+3	1379	7204066300000000	CMakeFiles/zz_ProyectoFinal.dir/prueba.cpp.obj	37f7ac1e9736e486
+1380	2569	7204066320000000	zz_ProyectoFinal.exe	6b80aa36c7cbcc01
+6	541	7204066680000000	CMakeFiles/zz_ProyectoFinal.dir/prueba.cpp.obj	37f7ac1e9736e486
+542	833	7204066680000000	zz_ProyectoFinal.exe	6b80aa36c7cbcc01
